@@ -16,15 +16,16 @@
 body {
     font-family: sora, sans-serif;
     min-height: 100vh;
-    padding-top: 164px;
+    padding-top: 20px;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     color: #394150;
     background-color: #FFFFFF;
 }
 
 .card {
+    margin: 144px;
     display: flex;
     flex-flow: column nowrap;
     align-items: flex-start;
